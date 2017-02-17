@@ -30,7 +30,7 @@ The instructions here are for all three platforms Linux, Windows, and OSX - just
 
 ## How To Do It - Linux
 
-On your Linux box, you'll need to edit a file called `/etc/exports`. If you don't have this file, then you need to install `nfs-common` or a similar package. 
+On your Linux box, you'll need to edit a file called `/etc/exports`. If you don't have this file, then you need to install `nfs-kernel-server` or a similar package. 
 
 Open the file and add the following line:
 
